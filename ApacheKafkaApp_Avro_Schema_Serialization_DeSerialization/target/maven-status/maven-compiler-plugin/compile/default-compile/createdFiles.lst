@@ -1,0 +1,4 @@
+com\kafka\avro\Order.class
+com\OrderProducer.class
+com\OrderConsumer.class
+com\kafka\avro\Order$Builder.class
